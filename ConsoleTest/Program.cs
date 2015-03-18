@@ -12,6 +12,8 @@
 // </modify>
 namespace ConsoleTest
 {
+    using System;
+
     /// <summary>
     /// The program.
     /// </summary>
@@ -27,6 +29,8 @@ namespace ConsoleTest
         /// </param>
         private static void Main(string[] args)
         {
+            Console.WriteLine("Hello Git!");
+            Console.ReadLine();
         }
 
         #endregion
