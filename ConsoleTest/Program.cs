@@ -29,7 +29,7 @@ namespace ConsoleTest
         /// </param>
         private static void Main(string[] args)
         {
-            Console.WriteLine("Hello Git!");
+            Console.WriteLine("Hello  Git!");
             Console.ReadLine();
         }
 
